@@ -1,2 +1,4 @@
 ---
 # tasks file for ansible-personal-website
+- fail:
+    msg: This role is not implemented yet!
